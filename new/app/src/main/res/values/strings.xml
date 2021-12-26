@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">24.12.21</string>
+    <string name="app_name">News</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Категории</string>
+    <string name="categories">Категории</string>
 </resources>

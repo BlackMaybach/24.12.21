@@ -7,4 +7,9 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="sport">#1DA612</color>
+    <color name="technology">#27D6AD</color>
+    <color name="space">#6601DA</color>
+    <color name="music">#BD0000</color>
+
 </resources>
